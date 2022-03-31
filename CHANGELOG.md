@@ -1,6 +1,13 @@
 # CHANGELOG
 
 
+## [1.2.0](https://github.com/hpyer/travis-test/compare/v1.1.2...v1.2.0) (2022-03-31)
+
+
+### Fix:
+
+* 修改为1.2.0 ([9b199a5](https://github.com/hpyer/travis-test/commit/9b199a5657299440682e24b70525bf9b3bca6e54))
+
 ### [1.1.2](https://github.com/hpyer/travis-test/compare/v1.1.1...v1.1.2) (2022-03-31)
 
 ### [1.1.1](https://github.com/hpyer/travis-test/compare/v1.0.5...v1.1.1) (2022-03-31)
