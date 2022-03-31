@@ -1,6 +1,6 @@
 {
   "name": "travis-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,16 +22,46 @@
   "standard-version": {
     "header": "#CHANGELOG",
     "types": [
-      { "type": "feat", "section": "Feat:" },
-      { "type": "fix", "section": "Fix:" },
-      { "type": "perf", "section": "Perf:" },
-      { "type": "chore", "hidden": true },
-      { "type": "docs", "section": "Docs:" },
-      { "type": "style", "hidden": true },
-      { "type": "refactor", "section": "Refactor:"} ,
-      { "type": "test", "hidden": true },
-      { "type": "conflict", "hidden": true },
-      { "type": "revert", "hidden": true }
+      {
+        "type": "feat",
+        "section": "Feat:"
+      },
+      {
+        "type": "fix",
+        "section": "Fix:"
+      },
+      {
+        "type": "perf",
+        "section": "Perf:"
+      },
+      {
+        "type": "chore",
+        "hidden": true
+      },
+      {
+        "type": "docs",
+        "section": "Docs:"
+      },
+      {
+        "type": "style",
+        "hidden": true
+      },
+      {
+        "type": "refactor",
+        "section": "Refactor:"
+      },
+      {
+        "type": "test",
+        "hidden": true
+      },
+      {
+        "type": "conflict",
+        "hidden": true
+      },
+      {
+        "type": "revert",
+        "hidden": true
+      }
     ]
   },
   "devDependencies": {
