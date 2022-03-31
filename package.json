@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "release": "npx standard-version && git push --follow-tags",
     "test": "echo \"No test\" && exit 0"
   },
   "repository": {
@@ -20,7 +21,7 @@
   },
   "homepage": "https://github.com/hpyer/travis-test#readme",
   "standard-version": {
-    "header": "#CHANGELOG",
+    "header": "#CHANGELOG\n\n",
     "types": [
       {
         "type": "feat",
