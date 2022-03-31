@@ -1,5 +1,7 @@
-#CHANGELOG
+# CHANGELOG
 
+
+### [1.1.1](https://github.com/hpyer/travis-test/compare/v1.0.5...v1.1.1) (2022-03-31)
 
 ### [1.0.5](https://github.com/hpyer/travis-test/compare/v1.0.4...v1.0.5) (2022-03-31)
 
