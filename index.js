@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('Hello travis 1.0.3');
+console.log('Hello travis 1.0.4');
