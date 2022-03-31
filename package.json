@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hpyer/travis-test#readme",
   "standard-version": {
-    "header": "#CHANGELOG\n\n",
+    "header": "# CHANGELOG\n\n",
     "types": [
       {
         "type": "feat",
