@@ -1,6 +1,13 @@
 # CHANGELOG
 
 
+### [1.3.2](https://github.com/hpyer/travis-test/compare/v1.3.0...v1.3.2) (2022-04-01)
+
+
+### Docs:
+
+* 增加travis状态图标 ([3f82c69](https://github.com/hpyer/travis-test/commit/3f82c692ebd881a69c1e4cf04d19ad83f03e86c4))
+
 ### [1.3.1](https://github.com/hpyer/travis-test/compare/v1.2.0...v1.3.1) (2022-04-01)
 
 
