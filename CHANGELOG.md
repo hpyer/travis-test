@@ -1,6 +1,28 @@
 # CHANGELOG
 
 
+### [1.3.1](https://github.com/hpyer/travis-test/compare/v1.2.0...v1.3.1) (2022-04-01)
+
+
+### Feat:
+
+* 增加提取最新提交日志的脚本 ([ac20ffd](https://github.com/hpyer/travis-test/commit/ac20ffdde5e0b7f438b32d08745314d41f83df02))
+
+
+### Fix:
+
+* 修改为1.2.1 ([14fd002](https://github.com/hpyer/travis-test/commit/14fd0021da9b0f48988f58cfa87ddd775f208a3a))
+
+
+### Refactor:
+
+* 重构脚本输出方式 ([39ee3ec](https://github.com/hpyer/travis-test/commit/39ee3ec89a678111bb057238a8ba6eeb21d29689))
+
+
+### Docs:
+
+* 增加travis状态图标 ([3f82c69](https://github.com/hpyer/travis-test/commit/3f82c692ebd881a69c1e4cf04d19ad83f03e86c4))
+
 ## [1.3.0](https://github.com/hpyer/travis-test/compare/v1.2.0...v1.3.0) (2022-04-01)
 
 
