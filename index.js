@@ -2,4 +2,4 @@
 
 console.log('Hello travis!');
 
-console.log('Version: 1.3.5');
+console.log('Version: v1.3.5');
