@@ -1,13 +1,9 @@
 language: node_js
 node_js:
   - 12
-before_deploy:
-  - curl https://github.com/lindell/github-release-cli/releases/download/1.1.0/github-releaser-travis -L --output github-releaser && chmod +x github-releaser
-  - export BODY=$(node ./.fetch_lastest_commits.js)
-  - echo $BODY
 deploy:
-  provider: script
-  script: ./github-releaser -draft -verbose
+  provider: releases
+  api_key: "$GITHUB_OAUTH_TOKEN"
   skip_cleanup: true
   on:
     tags: true
