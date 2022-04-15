@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "release": "npx package-release",
     "test": "echo \"No test\" && exit 0"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hpyer/travis-test/issues"
   },
-  "homepage": "https://github.com/hpyer/travis-test#readme"
+  "homepage": "https://github.com/hpyer/travis-test#readme",
+  "devDependencies": {
+    "package-release": "../package-release"
+  }
 }
