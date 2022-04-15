@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "npx standard-version",
     "test": "echo \"No test\" && exit 0"
   },
   "repository": {
@@ -19,53 +18,5 @@
   "bugs": {
     "url": "https://github.com/hpyer/travis-test/issues"
   },
-  "homepage": "https://github.com/hpyer/travis-test#readme",
-  "standard-version": {
-    "header": "# CHANGELOG\n\n",
-    "types": [
-      {
-        "type": "feat",
-        "section": "Feat:"
-      },
-      {
-        "type": "fix",
-        "section": "Fix:"
-      },
-      {
-        "type": "perf",
-        "section": "Perf:"
-      },
-      {
-        "type": "chore",
-        "hidden": true
-      },
-      {
-        "type": "docs",
-        "section": "Docs:"
-      },
-      {
-        "type": "style",
-        "hidden": true
-      },
-      {
-        "type": "refactor",
-        "section": "Refactor:"
-      },
-      {
-        "type": "test",
-        "hidden": true
-      },
-      {
-        "type": "conflict",
-        "hidden": true
-      },
-      {
-        "type": "revert",
-        "hidden": true
-      }
-    ]
-  },
-  "devDependencies": {
-    "standard-version": "^9.3.2"
-  }
+  "homepage": "https://github.com/hpyer/travis-test#readme"
 }
