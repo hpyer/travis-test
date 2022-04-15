@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/hpyer/travis-test#readme",
   "devDependencies": {
-    "package-release": "../package-release"
+    "package-release": "^1.0.0"
   }
 }
